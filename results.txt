@@ -1,0 +1,237 @@
+JUnit version 4.13.2
+..Comparing file ElonMusk.c and VictorOrban.c
+The average value of minimal Hamming distance is 11.385542168674698, and 18 identical lines were found across both files.
+No plagiarism detected.
+Comparing file ElonMusk.c and RobertLewandowski.c
+The average value of minimal Hamming distance is 10.114285714285714, and 20 identical lines were found across both files.
+No plagiarism detected.
+Comparing file ElonMusk.c and WarrenBuffet.c
+The average value of minimal Hamming distance is 8.91566265060241, and 17 identical lines were found across both files.
+No plagiarism detected.
+Comparing file ElonMusk.c and DonaldTrump.c
+The average value of minimal Hamming distance is 10.095238095238095, and 20 identical lines were found across both files.
+No plagiarism detected.
+Comparing file ElonMusk.c and JohnMalkovich.c
+The average value of minimal Hamming distance is 6.231578947368421, and 17 identical lines were found across both files.
+Plagiarism detected.
+Comparing file ElonMusk.c and LionelMessi.c
+The average value of minimal Hamming distance is 7.950413223140496, and 27 identical lines were found across both files.
+Plagiarism detected.
+Comparing file ElonMusk.c and ArnoldAschwarzeneger.c
+The average value of minimal Hamming distance is 7.3, and 30 identical lines were found across both files.
+Plagiarism detected.
+Comparing file ElonMusk.c and DonaldTusk.c
+The average value of minimal Hamming distance is 10.654867256637168, and 27 identical lines were found across both files.
+No plagiarism detected.
+Comparing file ElonMusk.c and JeffBezos.c
+The average value of minimal Hamming distance is 9.8130081300813, and 24 identical lines were found across both files.
+No plagiarism detected.
+Comparing file ElonMusk.c and JustinBieber.c
+The average value of minimal Hamming distance is 8.745283018867925, and 21 identical lines were found across both files.
+No plagiarism detected.
+Comparing file ElonMusk.c and JaroslawKaczynski.c
+The average value of minimal Hamming distance is 7.320388349514563, and 23 identical lines were found across both files.
+Plagiarism detected.
+Comparing file ElonMusk.c and AlexandrLukaszenka.c
+The average value of minimal Hamming distance is 9.234234234234235, and 20 identical lines were found across both files.
+No plagiarism detected.
+Comparing file VictorOrban.c and RobertLewandowski.c
+The average value of minimal Hamming distance is 12.942857142857143, and 31 identical lines were found across both files.
+No plagiarism detected.
+Comparing file VictorOrban.c and WarrenBuffet.c
+The average value of minimal Hamming distance is 10.1875, and 16 identical lines were found across both files.
+No plagiarism detected.
+Comparing file VictorOrban.c and DonaldTrump.c
+The average value of minimal Hamming distance is 12.914285714285715, and 31 identical lines were found across both files.
+No plagiarism detected.
+Comparing file VictorOrban.c and JohnMalkovich.c
+The average value of minimal Hamming distance is 8.347368421052632, and 27 identical lines were found across both files.
+No plagiarism detected.
+Comparing file VictorOrban.c and LionelMessi.c
+The average value of minimal Hamming distance is 10.380165289256198, and 22 identical lines were found across both files.
+No plagiarism detected.
+Comparing file VictorOrban.c and ArnoldAschwarzeneger.c
+The average value of minimal Hamming distance is 9.17, and 33 identical lines were found across both files.
+No plagiarism detected.
+Comparing file VictorOrban.c and DonaldTusk.c
+The average value of minimal Hamming distance is 11.212389380530974, and 45 identical lines were found across both files.
+No plagiarism detected.
+Comparing file VictorOrban.c and JeffBezos.c
+The average value of minimal Hamming distance is 11.463414634146341, and 25 identical lines were found across both files.
+No plagiarism detected.
+Comparing file VictorOrban.c and JustinBieber.c
+The average value of minimal Hamming distance is 10.773584905660377, and 31 identical lines were found across both files.
+No plagiarism detected.
+Comparing file VictorOrban.c and JaroslawKaczynski.c
+The average value of minimal Hamming distance is 9.446601941747574, and 21 identical lines were found across both files.
+No plagiarism detected.
+Comparing file VictorOrban.c and AlexandrLukaszenka.c
+The average value of minimal Hamming distance is 11.99099099099099, and 31 identical lines were found across both files.
+No plagiarism detected.
+Comparing file RobertLewandowski.c and WarrenBuffet.c
+The average value of minimal Hamming distance is 11.123809523809523, and 31 identical lines were found across both files.
+No plagiarism detected.
+Comparing file RobertLewandowski.c and DonaldTrump.c
+The average value of minimal Hamming distance is 0.5238095238095238, and 92 identical lines were found across both files.
+Plagiarism detected.
+Comparing file RobertLewandowski.c and JohnMalkovich.c
+The average value of minimal Hamming distance is 10.19047619047619, and 36 identical lines were found across both files.
+No plagiarism detected.
+Comparing file RobertLewandowski.c and LionelMessi.c
+The average value of minimal Hamming distance is 8.826446280991735, and 23 identical lines were found across both files.
+No plagiarism detected.
+Comparing file RobertLewandowski.c and ArnoldAschwarzeneger.c
+The average value of minimal Hamming distance is 10.209523809523809, and 38 identical lines were found across both files.
+No plagiarism detected.
+Comparing file RobertLewandowski.c and DonaldTusk.c
+The average value of minimal Hamming distance is 10.176991150442477, and 45 identical lines were found across both files.
+No plagiarism detected.
+Comparing file RobertLewandowski.c and JeffBezos.c
+The average value of minimal Hamming distance is 9.113821138211382, and 29 identical lines were found across both files.
+No plagiarism detected.
+Comparing file RobertLewandowski.c and JustinBieber.c
+The average value of minimal Hamming distance is 7.283018867924528, and 34 identical lines were found across both files.
+Plagiarism detected.
+Comparing file RobertLewandowski.c and JaroslawKaczynski.c
+The average value of minimal Hamming distance is 10.780952380952382, and 18 identical lines were found across both files.
+No plagiarism detected.
+Comparing file RobertLewandowski.c and AlexandrLukaszenka.c
+The average value of minimal Hamming distance is 0.972972972972973, and 82 identical lines were found across both files.
+Plagiarism detected.
+Comparing file WarrenBuffet.c and DonaldTrump.c
+The average value of minimal Hamming distance is 11.047619047619047, and 31 identical lines were found across both files.
+No plagiarism detected.
+Comparing file WarrenBuffet.c and JohnMalkovich.c
+The average value of minimal Hamming distance is 6.810526315789474, and 26 identical lines were found across both files.
+Plagiarism detected.
+Comparing file WarrenBuffet.c and LionelMessi.c
+The average value of minimal Hamming distance is 7.735537190082645, and 31 identical lines were found across both files.
+Plagiarism detected.
+Comparing file WarrenBuffet.c and ArnoldAschwarzeneger.c
+The average value of minimal Hamming distance is 8.14, and 32 identical lines were found across both files.
+No plagiarism detected.
+Comparing file WarrenBuffet.c and DonaldTusk.c
+The average value of minimal Hamming distance is 10.690265486725664, and 41 identical lines were found across both files.
+No plagiarism detected.
+Comparing file WarrenBuffet.c and JeffBezos.c
+The average value of minimal Hamming distance is 10.121951219512194, and 24 identical lines were found across both files.
+No plagiarism detected.
+Comparing file WarrenBuffet.c and JustinBieber.c
+The average value of minimal Hamming distance is 9.462264150943396, and 32 identical lines were found across both files.
+No plagiarism detected.
+Comparing file WarrenBuffet.c and JaroslawKaczynski.c
+The average value of minimal Hamming distance is 4.796116504854369, and 38 identical lines were found across both files.
+Plagiarism detected.
+Comparing file WarrenBuffet.c and AlexandrLukaszenka.c
+The average value of minimal Hamming distance is 10.144144144144144, and 31 identical lines were found across both files.
+No plagiarism detected.
+Comparing file DonaldTrump.c and JohnMalkovich.c
+The average value of minimal Hamming distance is 10.152380952380952, and 36 identical lines were found across both files.
+No plagiarism detected.
+Comparing file DonaldTrump.c and LionelMessi.c
+The average value of minimal Hamming distance is 8.785123966942148, and 23 identical lines were found across both files.
+No plagiarism detected.
+Comparing file DonaldTrump.c and ArnoldAschwarzeneger.c
+The average value of minimal Hamming distance is 10.247619047619047, and 38 identical lines were found across both files.
+No plagiarism detected.
+Comparing file DonaldTrump.c and DonaldTusk.c
+The average value of minimal Hamming distance is 10.185840707964601, and 45 identical lines were found across both files.
+No plagiarism detected.
+Comparing file DonaldTrump.c and JeffBezos.c
+The average value of minimal Hamming distance is 8.731707317073171, and 29 identical lines were found across both files.
+No plagiarism detected.
+Comparing file DonaldTrump.c and JustinBieber.c
+The average value of minimal Hamming distance is 7.2924528301886795, and 34 identical lines were found across both files.
+Plagiarism detected.
+Comparing file DonaldTrump.c and JaroslawKaczynski.c
+The average value of minimal Hamming distance is 10.857142857142858, and 18 identical lines were found across both files.
+No plagiarism detected.
+Comparing file DonaldTrump.c and AlexandrLukaszenka.c
+The average value of minimal Hamming distance is 0.6216216216216216, and 83 identical lines were found across both files.
+Plagiarism detected.
+Comparing file JohnMalkovich.c and LionelMessi.c
+The average value of minimal Hamming distance is 4.859504132231405, and 35 identical lines were found across both files.
+Plagiarism detected.
+Comparing file JohnMalkovich.c and ArnoldAschwarzeneger.c
+The average value of minimal Hamming distance is 5.6, and 40 identical lines were found across both files.
+Plagiarism detected.
+Comparing file JohnMalkovich.c and DonaldTusk.c
+The average value of minimal Hamming distance is 9.876106194690266, and 47 identical lines were found across both files.
+No plagiarism detected.
+Comparing file JohnMalkovich.c and JeffBezos.c
+The average value of minimal Hamming distance is 9.821138211382113, and 25 identical lines were found across both files.
+No plagiarism detected.
+Comparing file JohnMalkovich.c and JustinBieber.c
+The average value of minimal Hamming distance is 8.216981132075471, and 36 identical lines were found across both files.
+No plagiarism detected.
+Comparing file JohnMalkovich.c and JaroslawKaczynski.c
+The average value of minimal Hamming distance is 6.893203883495145, and 22 identical lines were found across both files.
+Plagiarism detected.
+Comparing file JohnMalkovich.c and AlexandrLukaszenka.c
+The average value of minimal Hamming distance is 9.297297297297296, and 36 identical lines were found across both files.
+No plagiarism detected.
+Comparing file LionelMessi.c and ArnoldAschwarzeneger.c
+The average value of minimal Hamming distance is 6.214876033057851, and 27 identical lines were found across both files.
+Plagiarism detected.
+Comparing file LionelMessi.c and DonaldTusk.c
+The average value of minimal Hamming distance is 8.768595041322314, and 26 identical lines were found across both files.
+No plagiarism detected.
+Comparing file LionelMessi.c and JeffBezos.c
+The average value of minimal Hamming distance is 9.804878048780488, and 23 identical lines were found across both files.
+No plagiarism detected.
+Comparing file LionelMessi.c and JustinBieber.c
+The average value of minimal Hamming distance is 7.958677685950414, and 26 identical lines were found across both files.
+Plagiarism detected.
+Comparing file LionelMessi.c and JaroslawKaczynski.c
+The average value of minimal Hamming distance is 7.669421487603306, and 30 identical lines were found across both files.
+Plagiarism detected.
+Comparing file LionelMessi.c and AlexandrLukaszenka.c
+The average value of minimal Hamming distance is 8.785123966942148, and 23 identical lines were found across both files.
+No plagiarism detected.
+Comparing file ArnoldAschwarzeneger.c and DonaldTusk.c
+The average value of minimal Hamming distance is 9.991150442477876, and 49 identical lines were found across both files.
+No plagiarism detected.
+Comparing file ArnoldAschwarzeneger.c and JeffBezos.c
+The average value of minimal Hamming distance is 9.861788617886178, and 25 identical lines were found across both files.
+No plagiarism detected.
+Comparing file ArnoldAschwarzeneger.c and JustinBieber.c
+The average value of minimal Hamming distance is 9.00943396226415, and 35 identical lines were found across both files.
+No plagiarism detected.
+Comparing file ArnoldAschwarzeneger.c and JaroslawKaczynski.c
+The average value of minimal Hamming distance is 7.388349514563107, and 21 identical lines were found across both files.
+Plagiarism detected.
+Comparing file ArnoldAschwarzeneger.c and AlexandrLukaszenka.c
+The average value of minimal Hamming distance is 9.513513513513514, and 38 identical lines were found across both files.
+No plagiarism detected.
+Comparing file DonaldTusk.c and JeffBezos.c
+The average value of minimal Hamming distance is 10.504065040650406, and 26 identical lines were found across both files.
+No plagiarism detected.
+Comparing file DonaldTusk.c and JustinBieber.c
+The average value of minimal Hamming distance is 9.929203539823009, and 47 identical lines were found across both files.
+No plagiarism detected.
+Comparing file DonaldTusk.c and JaroslawKaczynski.c
+The average value of minimal Hamming distance is 10.4070796460177, and 26 identical lines were found across both files.
+No plagiarism detected.
+Comparing file DonaldTusk.c and AlexandrLukaszenka.c
+The average value of minimal Hamming distance is 10.212389380530974, and 45 identical lines were found across both files.
+No plagiarism detected.
+Comparing file JeffBezos.c and JustinBieber.c
+The average value of minimal Hamming distance is 10.170731707317072, and 25 identical lines were found across both files.
+No plagiarism detected.
+Comparing file JeffBezos.c and JaroslawKaczynski.c
+The average value of minimal Hamming distance is 9.983739837398375, and 22 identical lines were found across both files.
+No plagiarism detected.
+Comparing file JeffBezos.c and AlexandrLukaszenka.c
+The average value of minimal Hamming distance is 8.75609756097561, and 29 identical lines were found across both files.
+No plagiarism detected.
+Comparing file JustinBieber.c and JaroslawKaczynski.c
+The average value of minimal Hamming distance is 8.79245283018868, and 21 identical lines were found across both files.
+No plagiarism detected.
+Comparing file JustinBieber.c and AlexandrLukaszenka.c
+The average value of minimal Hamming distance is 8.045045045045045, and 34 identical lines were found across both files.
+No plagiarism detected.
+Comparing file JaroslawKaczynski.c and AlexandrLukaszenka.c
+The average value of minimal Hamming distance is 9.963963963963964, and 18 identical lines were found across both files.
+No plagiarism detected.
+.
+Time: 0,486
