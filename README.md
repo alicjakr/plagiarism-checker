@@ -11,6 +11,14 @@ Java program that detects if two files are plagiarised using the Hamming Distanc
 - 'plagiarism_examples/' - files used in testing
 - 'results.txt' - results of running the test file
 
+## Compiling and running tests
+# Compile main source files
+javac -d bin src/*.java
+# Compile test files
+javac -cp "lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar:bin" -d bin test/*.java
+# Run tests
+java -cp "lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar:bin" org.junit.runner.JUnitCore TestClass
+
 ##Author
 Alicja Krupczynska
 Object Oriented Programming - task 7
