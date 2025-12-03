@@ -1,6 +1,6 @@
 # Plagiarism Detection System
 
-## Overwiev
+## Overview
 Java program that detects if two files are plagiarised using the Hamming Distance method.
 
 ## Files
