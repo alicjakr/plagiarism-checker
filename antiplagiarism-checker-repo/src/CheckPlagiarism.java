@@ -4,6 +4,7 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Objects;
 
 public class CheckPlagiarism {
     private static final double THRESHOLD=8.0;
@@ -89,6 +90,22 @@ public class CheckPlagiarism {
         }
     }
 
-    //test results - github link to repository
+    public static void main(String[] args) throws IOException {
+        CheckPlagiarism check=new CheckPlagiarism();
 
+        File folder=new File("antiplagiarism-checker-repo/plagiarism_examples");
+        File[] files=folder.listFiles();
+
+        int comparisons=0;
+        for(int i = 0; i<Objects.requireNonNull(files).length; i++) {
+            for(int j=i+1; j<files.length; j++) {
+                if(files[i].isFile() && files[j].isFile()) {
+                    System.out.println("Comparing file "+files[i].getName()+" and "+files[j].getName());
+                    check.compareFiles(files[i], files[j]);
+                    comparisons++;
+                }
+            }
+        }
+        System.out.println("Comparisons done: "+comparisons);
+    }
 }
