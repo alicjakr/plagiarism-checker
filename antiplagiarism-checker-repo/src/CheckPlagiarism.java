@@ -39,7 +39,7 @@ public class CheckPlagiarism {
         }
 
         HammingCleared hammingCleared = new HammingCleared();
-        ArrayList<Integer> minimalHDs=new ArrayList<Integer>();
+        ArrayList<Integer> minimalHDs= new ArrayList<>();
         int identicalLines=0;
 
         //compare any line from first file to all lines from second file -> record minimal HD
