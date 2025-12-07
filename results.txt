@@ -1,5 +1,4 @@
-JUnit version 4.13.2
-..Comparing file ElonMusk.c and VictorOrban.c
+Comparing file ElonMusk.c and VictorOrban.c
 The average value of minimal Hamming distance is 11.385542168674698, and 18 identical lines were found across both files.
 No plagiarism detected.
 Comparing file ElonMusk.c and RobertLewandowski.c
@@ -234,5 +233,3 @@ Comparing file JaroslawKaczynski.c and AlexandrLukaszenka.c
 The average value of minimal Hamming distance is 9.963963963963964, and 18 identical lines were found across both files.
 No plagiarism detected.
 Comparisons done: 78
-.
-Time: 0,486
